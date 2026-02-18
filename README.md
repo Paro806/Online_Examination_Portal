@@ -34,7 +34,7 @@ This project demonstrates practical implementation of **full-stack development, 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
